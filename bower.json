@@ -1,0 +1,13 @@
+{
+  "name": "matches-selector",
+  "description": "Check if an element matches a given selector",
+  "version": "0.1.2",
+  "keywords": ["match", "element", "selector"],
+  "dependencies": {
+    "query": "elishowk/query"
+  },
+  "devDependencies": {
+    "domify": "elishowk/domify"
+  },
+  "main": "index.js"
+}
